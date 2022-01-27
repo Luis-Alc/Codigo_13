@@ -30,3 +30,22 @@ git commit -m "comentario"
 git push origin main
 ```
 - Sirve para poder subir los cambios a nuestro repositorio en la nube, en este caso github
+
+```
+git pull origin main
+```
+- Sirve para poder descargar los cambios de nuestro repositorio en la nube, en este caso Github
+
+```
+git branch
+```
+- Sirve para poder listar los branch que tengo localmente y me dice en cual e encuentro actualmente
+
+```
+git chekout -b nombre_del _branch
+```
+- Sirve para crear un branch nuevo y poder trabajar en el
+
+```
+git chechout nombre_del_branch
+```
